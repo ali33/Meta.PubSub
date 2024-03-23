@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Data\\META\\META.V6\\Meta.PubSub\\Meta.PubSub.csproj": {}
+  },
+  "projects": {
+    "D:\\Data\\META\\META.V6\\Meta.PubSub\\Meta.PubSub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Data\\META\\META.V6\\Meta.PubSub\\Meta.PubSub.csproj",
+        "projectName": "Meta.PubSub",
+        "projectPath": "D:\\Data\\META\\META.V6\\Meta.PubSub\\Meta.PubSub.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Data\\META\\META.V6\\Meta.PubSub\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.67.0, )"
+            },
+            "Google.Cloud.PubSub.V1": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.117\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

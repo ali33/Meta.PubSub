@@ -1,0 +1,12 @@
+D:\Data\META\META.V6\Meta.PubSub\bin\Debug\net7.0\Meta.PubSub.deps.json
+D:\Data\META\META.V6\Meta.PubSub\bin\Debug\net7.0\Meta.PubSub.dll
+D:\Data\META\META.V6\Meta.PubSub\bin\Debug\net7.0\Meta.PubSub.pdb
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.csproj.AssemblyReference.cache
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.AssemblyInfoInputs.cache
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.AssemblyInfo.cs
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.csproj.CoreCompileInputs.cache
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.dll
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\refint\Meta.PubSub.dll
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\Meta.PubSub.pdb
+D:\Data\META\META.V6\Meta.PubSub\obj\Debug\net7.0\ref\Meta.PubSub.dll

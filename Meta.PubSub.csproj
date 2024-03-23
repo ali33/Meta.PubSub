@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Bridge\" />
+    <Folder Include="Services\Forward\Forwarders\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.67.0" />
+    <PackageReference Include="Google.Cloud.PubSub.V1" Version="3.10.1" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>
